@@ -30,4 +30,4 @@ const me = new Shary();
 
 ## My Statistics
 
-[![Shary' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sh4ry&custom
+[![Shary' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sh4ry&custom)!]
